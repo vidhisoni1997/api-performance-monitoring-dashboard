@@ -5,7 +5,7 @@ import pandas as pd
 import plotly.express as px
 import streamlit as st
 
-API_URL = "http://127.0.0.1:8000"
+API_URL = "https://api-performance-monitoring-dashboard.onrender.com"
 
 st.set_page_config(
     page_title="API Performance Dashboard",
